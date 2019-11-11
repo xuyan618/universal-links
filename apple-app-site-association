@@ -5,6 +5,10 @@
 			{
 				"appID": "T66PKK9YSX.com.umfintech.hurricane",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "VMY4SCR6V3.com.umfintech.shanyin.appstore",
+				"paths": [ "*"]
 			}
 		]
 	}
