@@ -9,6 +9,14 @@
 			{
 				"appID": "VMY4SCR6V3.com.umfintech.shanyin.appstore",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "T66PKK9YSX.com.umfintech.posmanager",
+				"paths": [ "*"]
+			},
+			{
+				"appID": "T66PKK9YSX.com.umfintech.umflfb",
+				"paths": [ "*"]
 			}
 		]
 	}
