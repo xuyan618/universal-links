@@ -17,7 +17,23 @@
 			{
 				"appID": "T66PKK9YSX.com.umfintech.umflfb",
 				"paths": [ "*"]
-			}
+			},
+			{
+                "appID": "VMY4SCR6V3.com.umpay.UpayPersonalIphone",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "T66PKK9YSX.com.umfintech.merchant.upos",
+                "paths": [ "*" ]
+            },
+	    {
+                "appID": "MWJ8G9ZE99.com.umpay.inhouseupos.agent",
+                "paths": [ "*" ]
+            },
+	    {
+                "appID": "MWJ8G9ZE99.com.umpay.inhouseupos.merchant",
+                "paths": [ "*" ]
+            }
 		]
 	}
 }
